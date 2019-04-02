@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="standard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/standard_jar</output-path>
+    <root id="archive" name="standard.jar">
+      <element id="module-output" name="standard" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/standard/lib/chatOntology.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/standard/lib/jade.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/standard/lib/chatStandard.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

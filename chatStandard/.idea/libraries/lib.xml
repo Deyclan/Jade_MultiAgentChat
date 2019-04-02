@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/standard/lib/chatOntology.jar!/" />
+      <root url="jar://$PROJECT_DIR$/standard/lib/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/standard/lib/chatStandard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
